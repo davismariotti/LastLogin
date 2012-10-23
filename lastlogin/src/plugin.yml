@@ -1,0 +1,7 @@
+name: LastLogin
+main: me.gomeow.lastlogin.lastlogin
+version: 1.0
+description: Tells who last logged out!
+commands:
+  lastlogin:
+    description: Tells who last logged out!
